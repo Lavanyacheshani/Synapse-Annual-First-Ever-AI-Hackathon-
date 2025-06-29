@@ -1,12 +1,3 @@
----
-title: LinkedIn Candidate Sourcing API
-emoji: 🔍
-colorFrom: blue
-colorTo: purple
-sdk: docker
-pinned: false
-license: mit
----
 
 # Synapse AI: LinkedIn Candidate Sourcing Agent
 
