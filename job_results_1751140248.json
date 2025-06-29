@@ -1,0 +1,530 @@
+{
+  "job_id": "57f03dd1-3c97-4dee-b533-cd922cd04600",
+  "job_description": "rontend React Developer in Austin",
+  "candidates_found": 10,
+  "candidates_scored": 10,
+  "outreach_generated": 10,
+  "processing_time": 27.46,
+  "top_candidates": [
+    {
+      "name": "Austin Butler",
+      "linkedin_url": "https://www.linkedin.com/in/austin-butler1",
+      "headline": "Frontend Developer React Certificate Graphic. Frontend Developer React  \u201cAustin joined my team of developers as a limited time contractor and quickly",
+      "fit_score": 7.9,
+      "overall_confidence": 0.67,
+      "outreach_message": "Hi Austin,\n\nI came across your profile and was impressed by your background in Frontend Developer React Certificate Graphic. Frontend Developer React  \u201cAustin ... \n\nI'm reaching out because I think you'd be a strong fit for a  Developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 5.5,
+          "confidence": 0.6,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 10.0,
+          "confidence": 0.9,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "austin-butler1",
+        "display_name": "Austin Butler",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 1.0
+    },
+    {
+      "name": "Austin Duong",
+      "linkedin_url": "https://www.linkedin.com/in/austin-duong-6a5b50178",
+      "headline": "Developer II at Amplifund \u00b7 Hey there! I'm a full-stack software engineer with experience in .NET (C#, ASP.NET, .NET Core), React  Austin with a Bachelor",
+      "fit_score": 7.7,
+      "overall_confidence": 0.65,
+      "outreach_message": "Hi Austin,\n\nI came across your profile and was impressed by your background in Developer II at Amplifund \u00b7 Hey there! I'm a full-stack software engineer with e... \n\nI'm reaching out because I think you'd be a strong fit for a  Developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 7.0,
+          "confidence": 0.7,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 10.0,
+          "confidence": 0.9,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "austin-duong-6a5b50178",
+        "display_name": "Austin Duong",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Austin Amento",
+      "linkedin_url": "https://www.linkedin.com/in/austin-amento",
+      "headline": "React Developer | Full Time Coffee Lover \u00b7 I am a Father of two amazing  Austin Amento's profile on LinkedIn, a professional community of 1 billion members.",
+      "fit_score": 7.6,
+      "overall_confidence": 0.62,
+      "outreach_message": "Hi Austin,\n\nI came across your profile and was impressed by your background in React Developer | Full Time Coffee Lover \u00b7 I am a Father of two amazing  Austin ... \n\nI'm reaching out because I think you'd be a strong fit for a  Developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 10.0,
+          "confidence": 0.9,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "austin-amento",
+        "display_name": "Austin Amento",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Monica Cupp",
+      "linkedin_url": "https://www.linkedin.com/in/monica-cupp",
+      "headline": "Austin \u00b7 Education: Hack Reactor  Software Engineer | Full Stack Software Engineer | Web Developer | Front-End Engineer | Javascript | React | UX",
+      "fit_score": 7.3,
+      "overall_confidence": 0.58,
+      "outreach_message": "Hi Monica,\n\nI came across your profile and was impressed by your background in Austin \u00b7 Education: Hack Reactor  Software Engineer | Full Stack Software Engine... \n\nI'm reaching out because I think you'd be a strong fit for a  Developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 10.0,
+          "confidence": 0.9,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "monica-cupp",
+        "display_name": "Monica Cupp",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Austin Berry",
+      "linkedin_url": "https://www.linkedin.com/in/austinbberry",
+      "headline": "Software Developer | React, React Native, Django, Typescript \u00b7 Hello! I'm Austin, a new Software Developer that is continually learning new skills.",
+      "fit_score": 7.3,
+      "overall_confidence": 0.58,
+      "outreach_message": "Hi Austin,\n\nI came across your profile and was impressed by your background in Software Developer | React, React Native, Django, Typescript \u00b7 Hello! I'm Austin... \n\nI'm reaching out because I think you'd be a strong fit for a  Developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 10.0,
+          "confidence": 0.9,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "austinbberry",
+        "display_name": "Austin Berry",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Francis Bond",
+      "linkedin_url": "https://www.linkedin.com/in/francis-bond-839952164",
+      "headline": "Solutions Engineer II | JavaScript | React | HTML | CSS \u00b7 Full stack web developer  Austin \u00b7 Location: Austin, Texas Metropolitan Area \u00b7 454 connections",
+      "fit_score": 7.3,
+      "overall_confidence": 0.58,
+      "outreach_message": "Hi Francis,\n\nI came across your profile and was impressed by your background in Solutions Engineer II | JavaScript | React | HTML | CSS \u00b7 Full stack web develop... \n\nI'm reaching out because I think you'd be a strong fit for a  Developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 10.0,
+          "confidence": 0.9,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "francis-bond-839952164",
+        "display_name": "Francis Bond",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Austin Amaral",
+      "linkedin_url": "https://www.linkedin.com/in/austin-amaral3",
+      "headline": "Full Stack Web Developer | <JavaScript, React, Node.js, MongoDB> \u00b7 Hello I am a Full-Stack Software Engineer passionate about creating web applications!",
+      "fit_score": 7.2,
+      "overall_confidence": 0.52,
+      "outreach_message": "Hi Austin,\n\nI came across your profile and was impressed by your background in Full Stack Web Developer | <JavaScript, React, Node.js, MongoDB> \u00b7 Hello I am a ... \n\nI'm reaching out because I think you'd be a strong fit for a  Developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "austin-amaral3",
+        "display_name": "Austin Amaral",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Austin Loveless",
+      "linkedin_url": "https://www.linkedin.com/in/austin-loveless",
+      "headline": "Modern React with Redux. -. React Intensive. -. The Advanced Web Developer  developer as Austin. But what makes him truly stand out is that he never",
+      "fit_score": 7.0,
+      "overall_confidence": 0.57,
+      "outreach_message": "Hi Austin,\n\nI came across your profile and was impressed by your background in Modern React with Redux. -. React Intensive. -. The Advanced Web Developer  deve... \n\nI'm reaching out because I think you'd be a strong fit for a  Developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 5.5,
+          "confidence": 0.6,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 10.0,
+          "confidence": 0.9,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "austin-loveless",
+        "display_name": "Austin Loveless",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Austin Evans",
+      "linkedin_url": "https://www.linkedin.com/in/austin-dv-evans",
+      "headline": "React Development Certification Course Graphic. React Development  \u201cAustin is an intelligent and innovative developer who makes an excellent team member.",
+      "fit_score": 7.0,
+      "overall_confidence": 0.57,
+      "outreach_message": "Hi Austin,\n\nI came across your profile and was impressed by your background in React Development Certification Course Graphic. React Development  \u201cAustin is an... \n\nI'm reaching out because I think you'd be a strong fit for a  Developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 5.5,
+          "confidence": 0.6,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 10.0,
+          "confidence": 0.9,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "austin-dv-evans",
+        "display_name": "Austin Evans",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Austin Gould",
+      "linkedin_url": "https://www.linkedin.com/in/austin-gould-89299b170",
+      "headline": "development to create efficient and user-friendly systems for diverse client needs. I have a strong background in React, React Native, Typescript",
+      "fit_score": 6.6,
+      "overall_confidence": 0.47,
+      "outreach_message": "Hi Austin,\n\nI came across your profile and was impressed by your background in development to create efficient and user-friendly systems for diverse client nee... \n\nI'm reaching out because I think you'd be a good fit for a  Developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 5.5,
+          "confidence": 0.6,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "austin-gould-89299b170",
+        "display_name": "Austin Gould",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    }
+  ]
+}

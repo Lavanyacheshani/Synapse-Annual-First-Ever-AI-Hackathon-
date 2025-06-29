@@ -1,0 +1,631 @@
+{
+  "job_description": "software engineer",
+  "timestamp": "2025-06-29T20:43:21.384476",
+  "total_candidates_found": 10,
+  "top_candidates": [
+    {
+      "name": "Rachel Ruderman",
+      "linkedin_url": "https://www.linkedin.com/in/rachelruderman",
+      "headline": "Experience: Stripe \u00b7 Education: University of Richmond \u00b7 Location: Jersey City \u00b7 500+ connections on LinkedIn. View Rachel Ruderman - Software Engineer's",
+      "fit_score": 5.78,
+      "score_breakdown": {
+        "education": {
+          "score": 7.0,
+          "confidence": 0.7,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 1.18,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Rachel,\n\nI came across your profile and was impressed by your technical background. Your background in Experience: Stripe \u00b7 Education: University of Richmond \u00b7 Location: Jersey City \u00b7 500+ connections on... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "James Wells",
+      "linkedin_url": "https://www.linkedin.com/in/saintdubious",
+      "headline": "Senior Software Engineer with a strong enthusiasm for modern C++. Extensive experience with middleware and back end services including databases and networking",
+      "fit_score": 5.78,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 8.5,
+          "confidence": 0.8500000000000001,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 2.05,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi James,\n\nI came across your profile and was impressed by your experience in data science. Your background in Senior Software Engineer with a strong enthusiasm for modern C++. Extensive experience with middlewa... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Edward Huang",
+      "linkedin_url": "https://www.linkedin.com/in/edwhuang",
+      "headline": "Software Engineer @ Meta \u00b7 Experience: Meta \u00b7 Education: University of Michigan \u00b7 Location: New York \u00b7 500+ connections on LinkedIn.",
+      "fit_score": 5.6,
+      "score_breakdown": {
+        "education": {
+          "score": 7.0,
+          "confidence": 0.7,
+          "weight": 0.15,
+          "enhanced_by": []
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.15,
+          "enhanced_by": []
+        },
+        "company": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": []
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 0.0,
+          "confidence": 0.7,
+          "weight": 0.15,
+          "sources_used": [
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Edward,\n\nI came across your profile and was impressed by your technical background. Your background in Software Engineer @ Meta \u00b7 Experience: Meta \u00b7 Education: University of Michigan \u00b7 Location: New York... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Michael Len",
+      "linkedin_url": "https://www.linkedin.com/in/michaellen",
+      "headline": "Software Engineer at YouTube \u00b7 I'd prefer you check out my personal website for more information about myself: http://michaellen.com ===== I'm an energetic,",
+      "fit_score": 5.58,
+      "score_breakdown": {
+        "education": {
+          "score": 5.5,
+          "confidence": 0.35,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 6.5,
+          "confidence": 0.45,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 2.1799999999999997,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Michael,\n\nI came across your profile and was impressed by your technical background. Your background in Software Engineer at YouTube \u00b7 I'd prefer you check out my personal website for more information abo... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Zack Robinson",
+      "linkedin_url": "https://www.linkedin.com/in/robinsonz",
+      "headline": "Software Engineer @ SpaceX \u00b7 I write code (and occasionally words) to help people accomplish their goals. Learn more about me at https://robinsonz.me.",
+      "fit_score": 5.53,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 6.5,
+          "confidence": 0.45,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": [
+            "stackoverflow",
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 2.38,
+          "confidence": 0.9,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "stackoverflow",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Zack,\n\nI came across your profile and was impressed by your technical background. Your background in Software Engineer @ SpaceX \u00b7 I write code (and occasionally words) to help people accomplish their g... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Kenny Chamberlin",
+      "linkedin_url": "https://www.linkedin.com/in/kvc",
+      "headline": "Software Engineer \u00b7 A technical leader: I design, demystify, and build distributed systems. I mentor and teach. I incubate new products, enabling teams to",
+      "fit_score": 5.49,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 0.63,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Kenny,\n\nI came across your profile and was impressed by your technical background. Your background in Software Engineer \u00b7 A technical leader: I design, demystify, and build distributed systems. I mentor... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Kai Seward",
+      "linkedin_url": "https://www.linkedin.com/in/kai-seward",
+      "headline": "I'm a software engineer based in San Francisco! I really like fixing bugs and building things that help people connect to, understand, and appreciate the world",
+      "fit_score": 5.43,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 6.5,
+          "confidence": 0.45,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 1.68,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Kai,\n\nI came across your profile and was impressed by your technical background. Your background in I'm a software engineer based in San Francisco! I really like fixing bugs and building things that h... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Matt Tompkins",
+      "linkedin_url": "https://www.linkedin.com/in/matt-tompkins-06271539",
+      "headline": "Software Engineer | Next.js, React & Typescript \u00b7 *Not written by AI If you feel like I'm a good fit for a role or project, give me a shout!",
+      "fit_score": 5.43,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 6.5,
+          "confidence": 0.45,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 1.73,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Matt,\n\nI came across your profile and was impressed by your experience in frontend development. Your background in Software Engineer | Next.js, React & Typescript \u00b7 *Not written by AI If you feel like I'm a good fit... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Megan Astraus",
+      "linkedin_url": "https://www.linkedin.com/in/megan-astraus",
+      "headline": "Software Engineer | Former Teacher | Lifelong Learner \u00b7 I'm a software developer (and a recovering public school teacher) with a penchant for perfection and",
+      "fit_score": 5.38,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 6.5,
+          "confidence": 0.45,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 1.37,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Megan,\n\nI came across your profile and was impressed by your technical background. Your background in Software Engineer | Former Teacher | Lifelong Learner \u00b7 I'm a software developer (and a recovering p... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Roxy Rodriguez",
+      "linkedin_url": "https://www.linkedin.com/in/roxana-rodriguez-becker",
+      "headline": "Software Engineer | Support Engineer | Handstand Aficionado \u00b7 I am a Software Engineer with a background in math education and library science.",
+      "fit_score": 5.37,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 1.8,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Roxy,\n\nI came across your profile and was impressed by your technical background. Your background in Software Engineer | Support Engineer | Handstand Aficionado \u00b7 I am a Software Engineer with a backgr... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    }
+  ],
+  "processing_time": 159.716894
+}

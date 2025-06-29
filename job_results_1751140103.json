@@ -1,0 +1,530 @@
+{
+  "job_id": "5a66b620-dd62-4964-b982-8d6e6cfc0476",
+  "job_description": "Data Scientist with ML experience in Sri lanka",
+  "candidates_found": 10,
+  "candidates_scored": 10,
+  "outreach_generated": 10,
+  "processing_time": 45.76,
+  "top_candidates": [
+    {
+      "name": "William Duhe",
+      "linkedin_url": "https://www.linkedin.com/in/william-duhe-8058a7246",
+      "headline": "AI/ML Senior Software Engineer. Amazon Web Services (AWS). Jul 2020 - Present 5 years. Denver, Colorado, United States. I lead the development of scalable, open",
+      "fit_score": 7.6,
+      "overall_confidence": 0.63,
+      "outreach_message": "Hi William,\n\nI came across your profile and was impressed by your background in AI/ML Senior Software Engineer. Amazon Web Services (AWS). Jul 2020 - Present 5 ... \n\nI'm reaching out because I think you'd be a strong fit for a Data Scientist role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.6,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "william-duhe-8058a7246",
+        "display_name": "William Duhe",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Dhruuv Agarwal",
+      "linkedin_url": "https://www.linkedin.com/in/dhruuv-agarwal111",
+      "headline": "Senior Software Engineer, ML at Google DeepMind \u00b7 Hello, A bit about myself I like to constantly challenge myself and learn new hobbies and skills.",
+      "fit_score": 7.6,
+      "overall_confidence": 0.58,
+      "outreach_message": "Hi Dhruuv,\n\nI came across your profile and was impressed by your background in Senior Software Engineer, ML at Google DeepMind \u00b7 Hello, A bit about myself I li... \n\nI'm reaching out because I think you'd be a strong fit for a Data Scientist role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "dhruuv-agarwal111",
+        "display_name": "Dhruuv Agarwal",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Steven Ford",
+      "linkedin_url": "https://www.linkedin.com/in/steven-raul-ford",
+      "headline": "Senior Software Engineer - AI and ML Infrastructure. Pie Insurance. May 2022 - Aug 2024 2 years 4 months. Remote.",
+      "fit_score": 7.3,
+      "overall_confidence": 0.6,
+      "outreach_message": "Hi Steven,\n\nI came across your profile and was impressed by your background in Senior Software Engineer - AI and ML Infrastructure. Pie Insurance. May 2022 - A... \n\nI'm reaching out because I think you'd be a strong fit for a Data Scientist role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.6,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "steven-raul-ford",
+        "display_name": "Steven Ford",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Daniel O'Neil",
+      "linkedin_url": "https://www.linkedin.com/in/daniel-o-neil-080757a1",
+      "headline": "ML Software Engineer at Genentech \u00b7 Like a child, I learn by playing. When I want to learn a new skill or technology, I like to jump in and make a toy with",
+      "fit_score": 6.9,
+      "overall_confidence": 0.48,
+      "outreach_message": "Hi Daniel,\n\nI came across your profile and was impressed by your background in ML Software Engineer at Genentech \u00b7 Like a child, I learn by playing. When I wan... \n\nI'm reaching out because I think you'd be a good fit for a Data Scientist role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "daniel-o-neil-080757a1",
+        "display_name": "Daniel O'Neil",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Mark Moussa",
+      "linkedin_url": "https://www.linkedin.com/in/markmoussa1234",
+      "headline": "AI/ML Research & Software Engineer. NASA - National Aeronautics and Space Administration. Jan 2017 - Present 8 years 6 months. Greenbelt, Maryland. I do AI/ML",
+      "fit_score": 6.9,
+      "overall_confidence": 0.53,
+      "outreach_message": "Hi Mark,\n\nI came across your profile and was impressed by your background in AI/ML Research & Software Engineer. NASA - National Aeronautics and Space Admini... \n\nI'm reaching out because I think you'd be a good fit for a Data Scientist role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.6,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "markmoussa1234",
+        "display_name": "Mark Moussa",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Charles Cutler",
+      "linkedin_url": "https://www.linkedin.com/in/charlescutler02",
+      "headline": "AI/ML Software Engineer. Metis Technology Solutions, Inc. Sep 2024 - Present 10 months. Richmond, Virginia, United States. Research Assistant. NLP@VCU. Apr 2022",
+      "fit_score": 6.9,
+      "overall_confidence": 0.53,
+      "outreach_message": "Hi Charles,\n\nI came across your profile and was impressed by your background in AI/ML Software Engineer. Metis Technology Solutions, Inc. Sep 2024 - Present 10 ... \n\nI'm reaching out because I think you'd be a good fit for a Data Scientist role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.6,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "charlescutler02",
+        "display_name": "Charles Cutler",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Andrew Berry",
+      "linkedin_url": "https://www.linkedin.com/in/andresberry",
+      "headline": "Research Software Engineer in Tiny ML \u00b7 In my previous role as an AI Research Scientist, I developed advanced computer vision models to monitor plankton",
+      "fit_score": 6.9,
+      "overall_confidence": 0.48,
+      "outreach_message": "Hi Andrew,\n\nI came across your profile and was impressed by your background in Research Software Engineer in Tiny ML \u00b7 In my previous role as an AI Research Sc... \n\nI'm reaching out because I think you'd be a good fit for a Data Scientist role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "andresberry",
+        "display_name": "Andrew Berry",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 1.0
+    },
+    {
+      "name": "Porter Bagley",
+      "linkedin_url": "https://www.linkedin.com/in/porter-bagley",
+      "headline": "Experience. The Home Depot Graphic. ML Engineer / Software Engineer II. The Home Depot. Dec 2024 - Present 7 months. Atlanta, Georgia, United States. Double",
+      "fit_score": 6.9,
+      "overall_confidence": 0.53,
+      "outreach_message": "Hi Porter,\n\nI came across your profile and was impressed by your background in Experience. The Home Depot Graphic. ML Engineer / Software Engineer II. The Home... \n\nI'm reaching out because I think you'd be a good fit for a Data Scientist role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.6,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "porter-bagley",
+        "display_name": "Porter Bagley",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Beatrice Lovely",
+      "linkedin_url": "https://www.linkedin.com/in/beatricelovely",
+      "headline": "AI Engineer@GM, AI/ML solutions in manufacturing, ML Systems, Sensing and  AI Software Engineer. General Motors. Jul 2022 - Present 3 years. Austin",
+      "fit_score": 6.9,
+      "overall_confidence": 0.53,
+      "outreach_message": "Hi Beatrice,\n\nI came across your profile and was impressed by your background in AI Engineer@GM, AI/ML solutions in manufacturing, ML Systems, Sensing and  AI So... \n\nI'm reaching out because I think you'd be a good fit for a Data Scientist role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.6,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "beatricelovely",
+        "display_name": "Beatrice Lovely",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Vikrame Vasudev Krishnan",
+      "linkedin_url": "https://www.linkedin.com/in/vikrame-vasudev-krishnan-80b588163",
+      "headline": "Software Engineer @ Salesforce | Spring 2023 SWE Intern @ Tesla | CS Grad @ USC \u00b7 Growing my competency in the ML/AI space has been my singular focus whilst",
+      "fit_score": 6.5,
+      "overall_confidence": 0.52,
+      "outreach_message": "Hi Vikrame,\n\nI came across your profile and was impressed by your background in Software Engineer @ Salesforce | Spring 2023 SWE Intern @ Tesla | CS Grad @ USC ... \n\nI'm reaching out because I think you'd be a good fit for a Data Scientist role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 4.0,
+          "confidence": 0.6,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "vikrame-vasudev-krishnan-80b588163",
+        "display_name": "Vikrame Vasudev Krishnan",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    }
+  ]
+}

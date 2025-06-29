@@ -1,0 +1,530 @@
+{
+  "job_id": "f4f1e044-28dc-4ee9-b3fd-cb3c7be016a4",
+  "job_description": "Full stack developer",
+  "candidates_found": 10,
+  "candidates_scored": 10,
+  "outreach_generated": 10,
+  "processing_time": 47.55,
+  "top_candidates": [
+    {
+      "name": "Michael Viele",
+      "linkedin_url": "https://www.linkedin.com/in/mikeviele",
+      "headline": "Owner / Lead Developer at Dev Hero \u00b7 I am a Web Developer and Audio Engineer with 18+ years of experience. My Web Development experience has given me the",
+      "fit_score": 6.12,
+      "overall_confidence": 0.45,
+      "outreach_message": "Hi Michael,\n\nI came across your profile and was impressed by your background in Owner / Lead Developer at Dev Hero \u00b7 I am a Web Developer and Audio Engineer wit... \n\nI'm reaching out because I think you'd be a good fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 5.5,
+          "confidence": 0.6,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "mikeviele",
+        "display_name": "Michael Viele",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Sidney Maestre",
+      "linkedin_url": "https://www.linkedin.com/in/sidmaestre",
+      "headline": "I am a leader in developer experience who builds high-performing teams to drive\u2026 \u00b7 Experience: Developer Relations Foundation \u00b7 Education: San Jose State",
+      "fit_score": 6.12,
+      "overall_confidence": 0.45,
+      "outreach_message": "Hi Sidney,\n\nI came across your profile and was impressed by your background in I am a leader in developer experience who builds high-performing teams to drive\u2026... \n\nI'm reaching out because I think you'd be a good fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 5.5,
+          "confidence": 0.6,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "sidmaestre",
+        "display_name": "Sidney Maestre",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Matt Wymore",
+      "linkedin_url": "https://www.linkedin.com/in/matt-wymore-9501b6b",
+      "headline": "-Have managed developers as well as engineering managers. -Hired and managed multiple software development contractors in the U.S. and off-shore. -Ran a",
+      "fit_score": 6.12,
+      "overall_confidence": 0.48,
+      "outreach_message": "Hi Matt,\n\nI came across your profile and was impressed by your background in -Have managed developers as well as engineering managers. -Hired and managed mul... \n\nI'm reaching out because I think you'd be a good fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 3.0,
+          "confidence": 0.4,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "matt-wymore-9501b6b",
+        "display_name": "Matt Wymore",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 1.0
+    },
+    {
+      "name": "Lester Martin",
+      "linkedin_url": "https://www.linkedin.com/in/lestermartin",
+      "headline": "dev advocate, trainer, blogger, data engineer \u00b7 I am a seasoned developer advocate, trainer, blogger, and data engineer focused on data pipelines & data",
+      "fit_score": 6.03,
+      "overall_confidence": 0.4,
+      "outreach_message": "Hi Lester,\n\nI came across your profile and was impressed by your background in dev advocate, trainer, blogger, data engineer \u00b7 I am a seasoned developer advoca... \n\nI'm reaching out because I think you'd be a good fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "lestermartin",
+        "display_name": "Lester Martin",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 1.0
+    },
+    {
+      "name": "John Smith",
+      "linkedin_url": "https://www.linkedin.com/in/john-smith-9a5878120",
+      "headline": "Software Developer/Engineer - I think in algorithms \u00b7 I have worked in most levels and areas of software development, with a majority of the time spent",
+      "fit_score": 6.03,
+      "overall_confidence": 0.4,
+      "outreach_message": "Hi John,\n\nI came across your profile and was impressed by your background in Software Developer/Engineer - I think in algorithms \u00b7 I have worked in most leve... \n\nI'm reaching out because I think you'd be a good fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "john-smith-9a5878120",
+        "display_name": "John Smith",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 1.0
+    },
+    {
+      "name": "Jeffrey Cogswell",
+      "linkedin_url": "https://www.linkedin.com/in/jeffcogswell",
+      "headline": "Wecodian Teacher and \u201cFor Dummies\u201d author / Software Developer 3 decades / Tech Writer / I will teach you coding! I will document your systems.",
+      "fit_score": 6.03,
+      "overall_confidence": 0.4,
+      "outreach_message": "Hi Jeffrey,\n\nI came across your profile and was impressed by your background in Wecodian Teacher and \u201cFor Dummies\u201d author / Software Developer 3 decades / Tech ... \n\nI'm reaching out because I think you'd be a good fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "jeffcogswell",
+        "display_name": "Jeffrey Cogswell",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 1.0
+    },
+    {
+      "name": "Joe Michael Allen, Ph.D.",
+      "linkedin_url": "https://www.linkedin.com/in/joemichaelallen",
+      "headline": "Co-Founder & CTO, Full Stack Developer, Software Engineer \u00b7 \u201cThe only time 'Success' comes before 'Hard work' is in the dictionary\u201d - Harvey Specter.",
+      "fit_score": 6.03,
+      "overall_confidence": 0.4,
+      "outreach_message": "Hi Joe,\n\nI came across your profile and was impressed by your background in Co-Founder & CTO, Full Stack Developer, Software Engineer \u00b7 \u201cThe only time 'Succ... \n\nI'm reaching out because I think you'd be a good fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "joemichaelallen",
+        "display_name": "Joe Michael Allen, Ph.D.",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 1.0
+    },
+    {
+      "name": "Jared Davidson",
+      "linkedin_url": "https://www.linkedin.com/in/archetapp",
+      "headline": "iOS Developer since I was 14. Started in Objective-C. Moved to Swift when it was launched. Started a YouTube channel teaching iOS Development. 67,000+ Subs",
+      "fit_score": 5.72,
+      "overall_confidence": 0.38,
+      "outreach_message": "Hi Jared,\n\nI came across your profile and was impressed by your background in iOS Developer since I was 14. Started in Objective-C. Moved to Swift when it was... \n\nI'm reaching out because I think you'd be a solid fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 5.5,
+          "confidence": 0.6,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "archetapp",
+        "display_name": "Jared Davidson",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 1.0
+    },
+    {
+      "name": "Kurtis Kemple",
+      "linkedin_url": "https://www.linkedin.com/in/kurtiskemple",
+      "headline": "Sr Developer Experience Engineer. Gatsby. May 2018 - Jan 2019 9 months. As one of Gatsby's first hires, I wore many hats, but some of my core responsibilities",
+      "fit_score": 5.72,
+      "overall_confidence": 0.43,
+      "outreach_message": "Hi Kurtis,\n\nI came across your profile and was impressed by your background in Sr Developer Experience Engineer. Gatsby. May 2018 - Jan 2019 9 months. As one o... \n\nI'm reaching out because I think you'd be a solid fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 5.5,
+          "confidence": 0.6,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.6,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "kurtiskemple",
+        "display_name": "Kurtis Kemple",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 1.0
+    },
+    {
+      "name": "Jayme Edwards",
+      "linkedin_url": "https://www.linkedin.com/in/jaymeedwards",
+      "headline": "My life changed forever in 2017 when I pressed \u201cmute\u201d on a Zoom call - and began swearing\u2026 \u00b7 Experience: Healthy Developer \u00b7 Location: Austin \u00b7 500+",
+      "fit_score": 5.72,
+      "overall_confidence": 0.38,
+      "outreach_message": "Hi Jayme,\n\nI came across your profile and was impressed by your background in My life changed forever in 2017 when I pressed \u201cmute\u201d on a Zoom call - and began... \n\nI'm reaching out because I think you'd be a solid fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 5.5,
+          "confidence": 0.6,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "jaymeedwards",
+        "display_name": "Jayme Edwards",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    }
+  ]
+}

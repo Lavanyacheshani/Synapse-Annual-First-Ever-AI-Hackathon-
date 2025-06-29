@@ -1,0 +1,530 @@
+{
+  "job_id": "64374158-15c8-4c17-870c-a7b0d80b6cee",
+  "job_description": "React web developer",
+  "candidates_found": 10,
+  "candidates_scored": 10,
+  "outreach_generated": 10,
+  "processing_time": 24.79,
+  "top_candidates": [
+    {
+      "name": "Jeff Andrews",
+      "linkedin_url": "https://www.linkedin.com/in/paintedbyjeff",
+      "headline": "Full-Stack Engineer | React, TypeScript, Java, & AWS | Financial Services | Veteran \u00b7 As a seasoned Software Developer and UI Team Leader, I excel in",
+      "fit_score": 7.3,
+      "overall_confidence": 0.55,
+      "outreach_message": "Hi Jeff,\n\nI came across your profile and was impressed by your background in Full-Stack Engineer | React, TypeScript, Java, & AWS | Financial Services | Vete... \n\nI'm reaching out because I think you'd be a strong fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "paintedbyjeff",
+        "display_name": "Jeff Andrews",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Khoa Le",
+      "linkedin_url": "https://www.linkedin.com/in/khoa-le-03878b27a",
+      "headline": "Software Engineer Trainee | Full Stack Developer; React, Javascript, HTML, CSS. Springboard. Oct 2022 - Present 2 years 9 months. Mastered skills in Frontend",
+      "fit_score": 7.3,
+      "overall_confidence": 0.6,
+      "outreach_message": "Hi Khoa,\n\nI came across your profile and was impressed by your background in Software Engineer Trainee | Full Stack Developer; React, Javascript, HTML, CSS. ... \n\nI'm reaching out because I think you'd be a strong fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 7.0,
+          "confidence": 0.7,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.6,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "khoa-le-03878b27a",
+        "display_name": "Khoa Le",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 1.0
+    },
+    {
+      "name": "Aditya Prathap",
+      "linkedin_url": "https://www.linkedin.com/in/adityaprathap",
+      "headline": "React Native Developer \u00b7 Founder \u00b7 President \u00b7 Cycle Editor \u00b7 Legislative Intern \u00b7 Presidential Fellow \u00b7 Speech and Debate Instructor \u00b7 President of Stanford Chapter.",
+      "fit_score": 7.1,
+      "overall_confidence": 0.6,
+      "outreach_message": "Hi Aditya,\n\nI came across your profile and was impressed by your background in React Native Developer \u00b7 Founder \u00b7 President \u00b7 Cycle Editor \u00b7 Legislative Intern... \n\nI'm reaching out because I think you'd be a strong fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 4.0,
+          "confidence": 0.6,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 5.5,
+          "confidence": 0.6,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "adityaprathap",
+        "display_name": "Aditya Prathap",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Donald Twiford",
+      "linkedin_url": "https://www.linkedin.com/in/donaldtwiford",
+      "headline": "Software Engineer | Team Oriented Full-Stack Developer | Passion for growth  Experience. Autopilot Graphic. React Software Engineer. Autopilot. Jun 2024",
+      "fit_score": 7.1,
+      "overall_confidence": 0.53,
+      "outreach_message": "Hi Donald,\n\nI came across your profile and was impressed by your background in Software Engineer | Team Oriented Full-Stack Developer | Passion for growth  Exp... \n\nI'm reaching out because I think you'd be a strong fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 7.0,
+          "confidence": 0.7,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "donaldtwiford",
+        "display_name": "Donald Twiford",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Muhammad Husnain Tahir",
+      "linkedin_url": "https://www.linkedin.com/in/husnaintahir/",
+      "headline": "Senior Mobile App Developer (React-Native | Expo) \u00b7 With a BS in Computer Science and over 6 years of experience as a mobile app developer, I am passionate",
+      "fit_score": 7.0,
+      "overall_confidence": 0.58,
+      "outreach_message": "Hi Muhammad,\n\nI came across your profile and was impressed by your background in Senior Mobile App Developer (React-Native | Expo) \u00b7 With a BS in Computer Scienc... \n\nI'm reaching out because I think you'd be a strong fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 5.5,
+          "confidence": 0.6,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.6,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "husnaintahir",
+        "display_name": "Muhammad Husnain Tahir",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Kurt Gray",
+      "linkedin_url": "https://www.linkedin.com/in/kurtmgray",
+      "headline": "Full Stack Software Engineer - JavaScript | React | Java | Spring \u00b7 I'm a  Software Developer. ISG. Mar 2025 - Present 4 months. Massachusetts, United",
+      "fit_score": 6.9,
+      "overall_confidence": 0.53,
+      "outreach_message": "Hi Kurt,\n\nI came across your profile and was impressed by your background in Full Stack Software Engineer - JavaScript | React | Java | Spring \u00b7 I'm a  Softw... \n\nI'm reaching out because I think you'd be a good fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.6,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "kurtmgray",
+        "display_name": "Kurt Gray",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Brendan K. Schatzki",
+      "linkedin_url": "https://www.linkedin.com/in/bkschatzki",
+      "headline": "Full Stack Software Development Engineer // React, Node, TypeScript, JavaScript, Next.  Full Stack Web Developer // React, Node, TypeScript, PostgreSQL,",
+      "fit_score": 6.9,
+      "overall_confidence": 0.48,
+      "outreach_message": "Hi Brendan,\n\nI came across your profile and was impressed by your background in Full Stack Software Development Engineer // React, Node, TypeScript, JavaScript,... \n\nI'm reaching out because I think you'd be a good fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "bkschatzki",
+        "display_name": "Brendan K. Schatzki",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Adam Rizzo",
+      "linkedin_url": "https://www.linkedin.com/in/arizzodev",
+      "headline": "Front End Web Developer with a focus on JavaScript, HTML, CSS and React \u00b7 An 8th grade math teacher in Revere Public Schools, I'm a not-so-secret C# and",
+      "fit_score": 6.9,
+      "overall_confidence": 0.48,
+      "outreach_message": "Hi Adam,\n\nI came across your profile and was impressed by your background in Front End Web Developer with a focus on JavaScript, HTML, CSS and React \u00b7 An 8th... \n\nI'm reaching out because I think you'd be a good fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "arizzodev",
+        "display_name": "Adam Rizzo",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 1.0
+    },
+    {
+      "name": "Alex A.",
+      "linkedin_url": "https://www.linkedin.com/in/alex-a-8b38b053",
+      "headline": "React Native Engineer at Geocaching HQ \u00b7 I have a passion for information, politics, and education. Web and App development have become my tools to shape",
+      "fit_score": 6.6,
+      "overall_confidence": 0.47,
+      "outreach_message": "Hi Alex,\n\nI came across your profile and was impressed by your background in React Native Engineer at Geocaching HQ \u00b7 I have a passion for information, polit... \n\nI'm reaching out because I think you'd be a good fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 5.5,
+          "confidence": 0.6,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "alex-a-8b38b053",
+        "display_name": "Alex A.",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    },
+    {
+      "name": "Kevin Pai",
+      "linkedin_url": "https://www.linkedin.com/in/kevinstolentino",
+      "headline": "This is is Kevin, I'm a software developer at Compassion International working on Android Mobile Development .  Developer II (React Native Mobile Developer).",
+      "fit_score": 6.5,
+      "overall_confidence": 0.52,
+      "outreach_message": "Hi Kevin,\n\nI came across your profile and was impressed by your background in This is is Kevin, I'm a software developer at Compassion International working o... \n\nI'm reaching out because I think you'd be a good fit for a  developer role at our company. Your experience and skills align perfectly with what we're looking for.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team.\n\nBest regards,\n[Your Name]",
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.2
+        },
+        "trajectory": {
+          "score": 4.0,
+          "confidence": 0.6,
+          "weight": 0.2
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.15
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1
+        }
+      },
+      "github_data": null,
+      "twitter_data": {
+        "username": "kevinstolentino",
+        "display_name": "Kevin Pai",
+        "followers_count": 0,
+        "following_count": 0,
+        "tweet_count": 0,
+        "verified": false,
+        "bio": "",
+        "location": ""
+      },
+      "enhancement_score": 0.0
+    }
+  ]
+}
