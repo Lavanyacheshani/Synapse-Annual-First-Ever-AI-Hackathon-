@@ -42,20 +42,8 @@ class JobResponse(BaseModel):
     processing_time: float
 
 @app.get("/")
-async def root():
-    """Root endpoint"""
-    return {
-        "message": "LinkedIn Candidate Sourcing API",
-        "version": "1.0.0",
-        "status": "running",
-        "agent_ready": AGENT_READY,
-        "endpoints": {
-            "POST /candidates": "Get top candidates for a job",
-            "POST /batch": "Process multiple jobs",
-            "GET /health": "Health check",
-            "GET /docs": "API documentation"
-        }
-    }
+def greet_json():
+    return {"Hello": "World!"}
 
 @app.get("/health")
 async def health_check():

@@ -1,0 +1,626 @@
+{
+  "job_description": "Senior software engineer",
+  "timestamp": "2025-06-29T21:53:51.881197",
+  "total_candidates_found": 10,
+  "top_candidates": [
+    {
+      "name": "Josh Solomon",
+      "linkedin_url": "https://www.linkedin.com/in/josh-solomon-culp-01736b171",
+      "headline": "Senior Software Engineer \u00b7 Experience: DraftKings Inc. \u00b7 Education: Northeastern University \u00b7 Location: New York \u00b7 500+ connections on LinkedIn.",
+      "fit_score": 6.3,
+      "score_breakdown": {
+        "education": {
+          "score": 7.0,
+          "confidence": 0.7,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 8.5,
+          "confidence": 0.8500000000000001,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 2.1799999999999997,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Josh,\n\nI came across your profile and was impressed by your technical background. Your background in Senior Software Engineer \u00b7 Experience: DraftKings Inc. \u00b7 Education: Northeastern University \u00b7 Locati... caught my attention.\n\nI'm reaching out because I think you'd be a good fit for a Senior software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Michael Trostel",
+      "linkedin_url": "https://www.linkedin.com/in/michael-trostel-3bb28b34",
+      "headline": "Senior Software Engineer, FHLBSF \u00b7 I am a hard working programmer/software engineer who loves and lives technology. Although I am very experienced,",
+      "fit_score": 5.88,
+      "score_breakdown": {
+        "education": {
+          "score": 5.5,
+          "confidence": 0.35,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 8.5,
+          "confidence": 0.8500000000000001,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 2.1799999999999997,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Michael,\n\nI came across your profile and was impressed by your technical background. Your background in Senior Software Engineer, FHLBSF \u00b7 I am a hard working programmer/software engineer who loves and li... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a Senior software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Scott McConnell",
+      "linkedin_url": "https://www.linkedin.com/in/scott-mcconnell56",
+      "headline": "Senior Software Engineer. Samsara. Feb 2024 - Present 1 year 5 months. San Francisco Bay Area. Samsara Graphic. Software Engineer IV. Samsara. May 2022 - Feb",
+      "fit_score": 5.87,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 9.0,
+          "confidence": 0.8,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 1.1,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Scott,\n\nI came across your profile and was impressed by your technical background. Your background in Senior Software Engineer. Samsara. Feb 2024 - Present 1 year 5 months. San Francisco Bay Area. Samsa... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a Senior software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Benjamin Rothman",
+      "linkedin_url": "https://www.linkedin.com/in/benjamin-rothman-96481776",
+      "headline": "Senior Software Engineer 1 at SETWorks \u00b7 I'm an intensely motivated, hard working, intellectually curious person. I'm easy going, love to joke around,",
+      "fit_score": 5.8,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 8.5,
+          "confidence": 0.8500000000000001,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 2.1799999999999997,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Benjamin,\n\nI came across your profile and was impressed by your technical background. Your background in Senior Software Engineer 1 at SETWorks \u00b7 I'm an intensely motivated, hard working, intellectually cu... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a Senior software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Steven Anderson",
+      "linkedin_url": "https://www.linkedin.com/in/steven-anderson-b42a00aa",
+      "headline": "Senior Software Engineer at Atlassian Inc \u00b7 As a programmer, I am passionate about working with others to develop robust, easy to use software products and",
+      "fit_score": 5.68,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 0.55,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Steven,\n\nI came across your profile and was impressed by your technical background. Your background in Senior Software Engineer at Atlassian Inc \u00b7 As a programmer, I am passionate about working with othe... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a Senior software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Robert Wilkins",
+      "linkedin_url": "https://www.linkedin.com/in/robert-wilkins-84ab83b0",
+      "headline": "Senior Software Engineer at Qualia, speculative fiction writer in my spare hours. \u00b7 Senior Software Engineer with over 20 years experience, a writer of",
+      "fit_score": 5.6,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.6,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 1.35,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Robert,\n\nI came across your profile and was impressed by your technical background. Your background in Senior Software Engineer at Qualia, speculative fiction writer in my spare hours. \u00b7 Senior Software ... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a Senior software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Tania Abdollahi",
+      "linkedin_url": "https://www.linkedin.com/in/tabdollahi",
+      "headline": "Senior Software Engineer at Nava Benefits \u00b7 My loved ones will begrudgingly confirm that I often spend my evenings rehearsing one measure from a song on my",
+      "fit_score": 5.55,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 0.98,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Tania,\n\nI came across your profile and was impressed by your technical background. Your background in Senior Software Engineer at Nava Benefits \u00b7 My loved ones will begrudgingly confirm that I often spe... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a Senior software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "James Wells",
+      "linkedin_url": "https://www.linkedin.com/in/saintdubious",
+      "headline": "Senior Software Engineer with a strong enthusiasm for modern C++. Extensive experience with middleware and back end services including databases and networking",
+      "fit_score": 5.4,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": []
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "enhanced_by": []
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": []
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 0.0,
+          "confidence": 0.0,
+          "weight": 0.15,
+          "sources_used": []
+        }
+      },
+      "outreach_message": "Hi James,\n\nI came across your profile and was impressed by your experience in data science. Your background in Senior Software Engineer with a strong enthusiasm for modern C++. Extensive experience with middlewa... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a Senior software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Mason Chinkin",
+      "linkedin_url": "https://www.linkedin.com/in/mason-chinkin",
+      "headline": "Senior Software Engineer at DocuSign \u00b7 After several years as an economist writing about complex problems, I decided I would rather make the tools that help",
+      "fit_score": 5.36,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 8.5,
+          "confidence": 0.8500000000000001,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 3.0,
+          "confidence": 0.4,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 1.25,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Mason,\n\nI came across your profile and was impressed by your technical background. Your background in Senior Software Engineer at DocuSign \u00b7 After several years as an economist writing about complex pro... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a Senior software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Thiago Massa",
+      "linkedin_url": "https://www.linkedin.com/in/thiago-massa-24891a51/",
+      "headline": "Senior Software Engineer @ Enpal \u00b7 I have over a decade of experience in software development, wearing different hats (IC, lead).",
+      "fit_score": 5.3,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 3.0,
+          "confidence": 0.4,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 1.3,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Thiago,\n\nI came across your profile and was impressed by your technical background. Your background in Senior Software Engineer @ Enpal \u00b7 I have over a decade of experience in software development, weari... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a Senior software engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    }
+  ],
+  "processing_time": 154.082622
+}

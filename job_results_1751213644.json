@@ -1,0 +1,617 @@
+{
+  "job_description": "Senior machine learning engineer",
+  "timestamp": "2025-06-29T21:44:04.709966",
+  "total_candidates_found": 10,
+  "top_candidates": [
+    {
+      "name": "Benjamin Dunphy",
+      "linkedin_url": "https://www.linkedin.com/in/benjamindunphy",
+      "headline": "Experienced and well-connected events producer specializing in end-to end production\u2026 \u00b7 Experience: AI Engineer Summit \u00b7 Education: Epicodus \u00b7 Location: San",
+      "fit_score": 5.43,
+      "score_breakdown": {
+        "education": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 6.5,
+          "confidence": 0.45,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 3.0,
+          "confidence": 0.5,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 2.1799999999999997,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Benjamin,\n\nI came across your profile and was impressed by your technical background. Your background in Experienced and well-connected events producer specializing in end-to end production\u2026 \u00b7 Experience: ... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Eric Engineer",
+      "linkedin_url": "https://www.linkedin.com/in/ericeng",
+      "headline": "Experience: S3 Ventures \u00b7 Education: Harvard Business School \u00b7 Location: Austin \u00b7 500+ connections on LinkedIn. View Eric Engineer's profile on LinkedIn,",
+      "fit_score": 5.22,
+      "score_breakdown": {
+        "education": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.15,
+          "enhanced_by": []
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.15,
+          "enhanced_by": []
+        },
+        "company": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "experience": {
+          "score": 3.0,
+          "confidence": 0.5,
+          "weight": 0.25,
+          "enhanced_by": []
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 0.0,
+          "confidence": 0.0,
+          "weight": 0.15,
+          "sources_used": []
+        }
+      },
+      "outreach_message": "Hi Eric,\n\nI came across your profile and was impressed by your technical background. Your background in Experience: S3 Ventures \u00b7 Education: Harvard Business School \u00b7 Location: Austin \u00b7 500+ connections o... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Steve Pronovost",
+      "linkedin_url": "https://www.linkedin.com/in/steve-pronovost-7603504",
+      "headline": "Experience \u00b7 Distinguished Engineer \u00b7 Vice President of Software Engineering \u00b7 Partner Development Lead \u00b7 Principal Development Lead \u00b7 Software Design Engineer.",
+      "fit_score": 5.05,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 8.5,
+          "confidence": 0.8500000000000001,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 3.0,
+          "confidence": 0.5,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 2.1799999999999997,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Steve,\n\nI came across your profile and was impressed by your technical background. Your background in Experience \u00b7 Distinguished Engineer \u00b7 Vice President of Software Engineering \u00b7 Partner Development L... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Christopher Garzon",
+      "linkedin_url": "https://www.linkedin.com/in/christopher-garzon-647081101",
+      "headline": "Learn Data Engineering: https://dataengineeracademy.com/ Ex Amazon, Lyft, Asset\u2026 \u00b7 Experience: Data Engineer Academy \u00b7 Education: Boston College \u00b7 Location:",
+      "fit_score": 4.93,
+      "score_breakdown": {
+        "education": {
+          "score": 7.0,
+          "confidence": 0.7,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 3.0,
+          "confidence": 0.5,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 0.55,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Christopher,\n\nI came across your profile and was impressed by your experience in data science. Your background in Learn Data Engineering: https://dataengineeracademy.com/ Ex Amazon, Lyft, Asset\u2026 \u00b7 Experience: Data ... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Michael Len",
+      "linkedin_url": "https://www.linkedin.com/in/michaellen",
+      "headline": "engineers like me can do what we do best, at the fastest velocity possible. Experience. YouTube Graphic. Software Engineer. YouTube. Jun 2017 - Present 8",
+      "fit_score": 4.83,
+      "score_breakdown": {
+        "education": {
+          "score": 5.5,
+          "confidence": 0.35,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 6.5,
+          "confidence": 0.45,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 3.0,
+          "confidence": 0.5,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 2.1799999999999997,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Michael,\n\nI came across your profile and was impressed by your technical background. Your background in engineers like me can do what we do best, at the fastest velocity possible. Experience. YouTube Grap... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Trevor Vook",
+      "linkedin_url": "https://www.linkedin.com/in/trevor-vook",
+      "headline": "Nuclear Engineer at Duke Energy \u00b7 I am proud to work for Duke Energy as a Nuclear Engineer with a mechanical focus. I serve in leadership with NAYGN as site",
+      "fit_score": 4.53,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 5.5,
+          "confidence": 0.6,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 3.0,
+          "confidence": 0.5,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 0.55,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Trevor,\n\nI came across your profile and was impressed by your technical background. Your background in Nuclear Engineer at Duke Energy \u00b7 I am proud to work for Duke Energy as a Nuclear Engineer with a me... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "James Corson",
+      "linkedin_url": "https://www.linkedin.com/in/james-corson-a4339728b",
+      "headline": "Senior Reactor Systems Engineer (Fuel Analyst) at U.S. Nuclear Regulatory Commission \u00b7 Experience: U.S. Nuclear Regulatory Commission \u00b7 Education:",
+      "fit_score": 4.45,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": []
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "enhanced_by": []
+        },
+        "company": {
+          "score": 5.5,
+          "confidence": 0.6,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "experience": {
+          "score": 3.0,
+          "confidence": 0.5,
+          "weight": 0.25,
+          "enhanced_by": []
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 0.0,
+          "confidence": 0.7,
+          "weight": 0.15,
+          "sources_used": [
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi James,\n\nI came across your profile and was impressed by your experience in frontend development. Your background in Senior Reactor Systems Engineer (Fuel Analyst) at U.S. Nuclear Regulatory Commission \u00b7 Experience: U... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Felipe Engineer",
+      "linkedin_url": "https://www.linkedin.com/in/engineerfelipe",
+      "headline": "Felipe Engineer-Manriquez, an international keynote speaker and author of \"Construction\u2026 \u00b7 Experience: The Boldt Company \u00b7 Education: California State",
+      "fit_score": 4.25,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 4.5,
+          "confidence": 0.65,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 5.5,
+          "confidence": 0.6,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 3.0,
+          "confidence": 0.5,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 2.1799999999999997,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Felipe,\n\nI came across your profile and was impressed by your technical background. Your background in Felipe Engineer-Manriquez, an international keynote speaker and author of \"Construction\u2026 \u00b7 Experienc... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Charlie Post",
+      "linkedin_url": "https://www.linkedin.com/in/chichaz",
+      "headline": "Recording Engineer, President. PostProductions Audio. Oct 2006 - Present 18  Audio Engineer. IATSE Local 500. Oct 2011 - Jun 2014 2 years 9 months. Miami",
+      "fit_score": 4.23,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 5.5,
+          "confidence": 0.6,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 3.0,
+          "confidence": 0.5,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.6,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 0.55,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Charlie,\n\nI came across your profile and was impressed by your technical background. Your background in Recording Engineer, President. PostProductions Audio. Oct 2006 - Present 18  Audio Engineer. IATSE L... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Justin Taylor",
+      "linkedin_url": "https://www.linkedin.com/in/justin-taylor-270abb45",
+      "headline": "Management of trackside engineering team. \u2022 3x race wins, 2x Le Mans 24hr podiums. Ed Carpenter Racing Graphic. Race Engineer.",
+      "fit_score": 4.12,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 4.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 3.0,
+          "confidence": 0.5,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 0.8,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Justin,\n\nI came across your profile and was impressed by your technical background. Your background in Management of trackside engineering team. \u2022 3x race wins, 2x Le Mans 24hr podiums. Ed Carpenter Raci... caught my attention.\n\nI'm reaching out because I think you'd be a solid fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    }
+  ],
+  "processing_time": 160.834037
+}

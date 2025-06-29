@@ -1,6 +1,7 @@
 # Read the doc: https://huggingface.co/docs/hub/spaces-sdks-docker
 # you will also find guides on how best to write your Dockerfile
 
+# Hugging Face Spaces Dockerfile for FastAPI
 FROM python:3.9
 
 RUN useradd -m -u 1000 user

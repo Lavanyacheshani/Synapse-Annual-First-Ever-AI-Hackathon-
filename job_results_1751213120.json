@@ -1,0 +1,631 @@
+{
+  "job_description": "ml engineer",
+  "timestamp": "2025-06-29T21:35:20.661410",
+  "total_candidates_found": 10,
+  "top_candidates": [
+    {
+      "name": "Duncan McElfresh",
+      "linkedin_url": "https://www.linkedin.com/in/duncan-mcelfresh",
+      "headline": "AI/ML | Data Science | Data Engineering | PhD Applied Math \u00b7 I use AI, ML  Data Engineer - AI/ML. Stanford Health Care. Dec 2023 - Present 1 year 7",
+      "fit_score": 7.29,
+      "score_breakdown": {
+        "education": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 6.5,
+          "confidence": 0.45,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 9.0,
+          "confidence": 0.8,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 1.8,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Duncan,\n\nI came across your profile and was impressed by your experience in data science. Your background in AI/ML | Data Science | Data Engineering | PhD Applied Math \u00b7 I use AI, ML  Data Engineer - AI/ML. St... caught my attention.\n\nI'm reaching out because I think you'd be a strong fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm excited about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Maharshi Patel",
+      "linkedin_url": "https://www.linkedin.com/in/maharshi135",
+      "headline": "Software Dev Engineer (ML) at Amazon \u00b7 Experience: Amazon \u00b7 Education: Arizona State University \u00b7 Location: Seattle \u00b7 500+ connections on LinkedIn.",
+      "fit_score": 6.88,
+      "score_breakdown": {
+        "education": {
+          "score": 7.0,
+          "confidence": 0.7,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 6.5,
+          "confidence": 0.45,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 2.1799999999999997,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Maharshi,\n\nI came across your profile and was impressed by your experience in data science. Your background in Software Dev Engineer (ML) at Amazon \u00b7 Experience: Amazon \u00b7 Education: Arizona State University \u00b7 Lo... caught my attention.\n\nI'm reaching out because I think you'd be a good fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Sarah Getter",
+      "linkedin_url": "https://www.linkedin.com/in/sarah-getter-b921711b6",
+      "headline": "Data Scientist/ Data Engineer/ ML Ops Engineer. Mandelbrolilo. Nov 2023 - Present 1 year 8 months. Remote. \u2022 Led the integration of cutting-edge data science",
+      "fit_score": 6.68,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 6.5,
+          "confidence": 0.45,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 9.0,
+          "confidence": 0.8,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 2.1799999999999997,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Sarah,\n\nI came across your profile and was impressed by your experience in data science. Your background in Data Scientist/ Data Engineer/ ML Ops Engineer. Mandelbrolilo. Nov 2023 - Present 1 year 8 months. R... caught my attention.\n\nI'm reaching out because I think you'd be a good fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Bruno Velloso",
+      "linkedin_url": "https://www.linkedin.com/in/bruno-velloso-37035672",
+      "headline": "ML Engineer and Principal Economist at QuadSci.ai \u00b7 I am a Ph.D.-trained economist that now works in machine learning and data science.",
+      "fit_score": 6.68,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 8.5,
+          "confidence": 0.8500000000000001,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 2.1799999999999997,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Bruno,\n\nI came across your profile and was impressed by your experience in data science. Your background in ML Engineer and Principal Economist at QuadSci.ai \u00b7 I am a Ph.D.-trained economist that now works in... caught my attention.\n\nI'm reaching out because I think you'd be a good fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "William Duhe",
+      "linkedin_url": "https://www.linkedin.com/in/william-duhe-8058a7246",
+      "headline": "AI/ML Senior Software Engineer. Amazon Web Services (AWS). Jul 2020 - Present 5 years. Denver, Colorado, United States. I lead the development of scalable, open",
+      "fit_score": 6.66,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.6,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 1.23,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi William,\n\nI came across your profile and was impressed by your experience in cloud technologies, data science. Your background in AI/ML Senior Software Engineer. Amazon Web Services (AWS). Jul 2020 - Present 5 years. Denver, Color... caught my attention.\n\nI'm reaching out because I think you'd be a good fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Adel Elmalaha",
+      "linkedin_url": "https://www.linkedin.com/in/adel-elmalaha-14037967",
+      "headline": "Staff Software Engineer, ML Infrastructure at Airbnb \u00b7 Experience: Airbnb \u00b7 Education: Arab Academy for Science, Technology and Maritime Transport",
+      "fit_score": 6.47,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": []
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "enhanced_by": []
+        },
+        "company": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25,
+          "enhanced_by": []
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 0.0,
+          "confidence": 0.7,
+          "weight": 0.15,
+          "sources_used": [
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Adel,\n\nI came across your profile and was impressed by your experience in data science. Your background in Staff Software Engineer, ML Infrastructure at Airbnb \u00b7 Experience: Airbnb \u00b7 Education: Arab Academy ... caught my attention.\n\nI'm reaching out because I think you'd be a good fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Steven Ford",
+      "linkedin_url": "https://www.linkedin.com/in/steven-raul-ford",
+      "headline": "Senior Software Engineer - AI and ML Infrastructure. Pie Insurance. May 2022 - Aug 2024 2 years 4 months. Remote.",
+      "fit_score": 6.42,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 8.0,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25,
+          "enhanced_by": [
+            "stackoverflow",
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.6,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 0.95,
+          "confidence": 0.9,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "stackoverflow",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Steven,\n\nI came across your profile and was impressed by your experience in data science. Your background in Senior Software Engineer - AI and ML Infrastructure. Pie Insurance. May 2022 - Aug 2024 2 years 4 mo... caught my attention.\n\nI'm reaching out because I think you'd be a good fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Nelson Griffiths",
+      "linkedin_url": "https://www.linkedin.com/in/nelson-griffiths",
+      "headline": "Head of Engineering & ML at Double River Investments \u00b7 I believe in the idea  I try to be part software developer, part data engineer, part data scientist, and",
+      "fit_score": 6.38,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 6.5,
+          "confidence": 0.45,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 2.1799999999999997,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Nelson,\n\nI came across your profile and was impressed by your experience in data science. Your background in Head of Engineering & ML at Double River Investments \u00b7 I believe in the idea  I try to be part softw... caught my attention.\n\nI'm reaching out because I think you'd be a good fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Ribhu Nirek",
+      "linkedin_url": "https://www.linkedin.com/in/ribhunirek",
+      "headline": "AI & ML Engineer \u00b7 I am a Machine Learning Engineer at Extra Space Storage, the largest self-storage operator in the US. Primarily, I work on data science",
+      "fit_score": 6.12,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 0.98,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Ribhu,\n\nI came across your profile and was impressed by your experience in data science. Your background in AI & ML Engineer \u00b7 I am a Machine Learning Engineer at Extra Space Storage, the largest self-storage... caught my attention.\n\nI'm reaching out because I think you'd be a good fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    },
+    {
+      "name": "Karan Thacker",
+      "linkedin_url": "https://www.linkedin.com/in/karanthacker",
+      "headline": "Software Engineer - ML & Data \u00b7 Experienced data science professional and collaborator with good hands on experience of deploying Machine Learning models",
+      "fit_score": 6.06,
+      "score_breakdown": {
+        "education": {
+          "score": 5.0,
+          "confidence": 0.3,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "trajectory": {
+          "score": 6.0,
+          "confidence": 0.4,
+          "weight": 0.15,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "company": {
+          "score": 7.5,
+          "confidence": 0.7,
+          "weight": 0.1,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "experience": {
+          "score": 9.5,
+          "confidence": 0.9,
+          "weight": 0.25,
+          "enhanced_by": [
+            "website"
+          ]
+        },
+        "location": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "tenure": {
+          "score": 6.0,
+          "confidence": 0.3,
+          "weight": 0.1,
+          "enhanced_by": []
+        },
+        "multi_source": {
+          "score": 0.55,
+          "confidence": 0.8,
+          "weight": 0.15,
+          "sources_used": [
+            "website",
+            "medium",
+            "twitter"
+          ]
+        }
+      },
+      "outreach_message": "Hi Karan,\n\nI came across your profile and was impressed by your experience in data science. Your background in Software Engineer - ML & Data \u00b7 Experienced data science professional and collaborator with good han... caught my attention.\n\nI'm reaching out because I think you'd be a good fit for a  engineer role at our company. Your experience and skills align perfectly with what we're looking for, and I'm interested about the possibility of working together.\n\nWould you be interested in learning more about this opportunity? I'd love to discuss how your background could contribute to our team and share more details about the role.\n\nBest regards,\n[Your Name]"
+    }
+  ],
+  "processing_time": 154.234862
+}
