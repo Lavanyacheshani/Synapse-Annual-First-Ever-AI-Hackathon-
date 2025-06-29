@@ -1,4 +1,5 @@
 
+
 # Synapse AI: LinkedIn Candidate Sourcing Agent
 
 ## Overview
@@ -12,7 +13,7 @@ This project is an AI-powered LinkedIn candidate sourcing, scoring, and outreach
 ```mermaid
 graph TD;
     A[User/API Request] --> B[FastAPI Server]
-    B --> C[LinkedInAgent (agent/__init__.py)]
+    B --> C[LinkedInAgent]
     C --> D1[LinkedInSearcher]
     C --> D2[CandidateScorer]
     C --> D3[OutreachGenerator]
@@ -20,8 +21,8 @@ graph TD;
     C --> D5[MultiSourceEnhancer]
     D1 --> E1[Google Custom Search]
     D3 --> E2[OpenAI API]
-    D5 --> E3[GitHub/Twitter/StackOverflow]
-    B --> F[data/ (cache, results)]
+    D5 --> E3[GitHub, Twitter, StackOverflow]
+    B --> F[Data Cache and Results]
 ```
 
 ---
