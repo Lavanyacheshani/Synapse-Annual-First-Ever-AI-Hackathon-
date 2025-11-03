@@ -1,6 +1,4 @@
-
-
-# Synapse AI: LinkedIn Candidate Sourcing Agent
+# LinkedIn Candidate Sourcing Agent
 
 ## Overview
 
